@@ -10,8 +10,7 @@ Expect some messy code, creative solutions, and occasional moments of “why won
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Java-Journey.git
-````
-````
+   ```
 2. Navigate to the repository:
 
    ```bash
