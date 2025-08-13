@@ -1,9 +1,9 @@
 A collection of Java programs and mini-projects I’m writing while learning Java.  
-From “Hello World” to comple projects — all my experiments and exercises go here.
+From “Hello World” to complex projects - all my experiments and exercises go here.
 
 ## 📌 About
 This repository is my personal playground for learning Java.  
-It contains everything I code while studying Java — simple exercises, small projects, or practical programs like a Mortgage Calculator.  
+It contains everything I code while studying Java - simple exercises, small projects, or practical programs like a Mortgage Calculator.  
 Expect some messy code, creative solutions, and occasional moments of “why won’t this compile?!”
 
 ## 🚀 How to Run
