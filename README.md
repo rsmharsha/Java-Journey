@@ -30,7 +30,7 @@ Expect some messy code, creative solutions, and occasional moments of “why won
 ## 📖 Notes
 
 * Programs are exercises or mini-projects from my learning journey.
-* Code may be messy, simple, or over-engineered — all part of learning.
+* Code may be messy, simple, or over-engineered - all part of the learning.
 * Feedback, tips, or jokes about my code are welcome via issues or pull requests.
 
 ## 🛠 Environment
