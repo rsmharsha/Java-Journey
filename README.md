@@ -1,15 +1,5 @@
-````markdown
-       ( (
-        ) )
-     .-"""""-.
-    /        \
-   |          |
-    \        /
-     `-.__.-'
-      ☕ Java-Journey ☕
-
 A collection of Java programs and mini-projects I’m writing while learning Java.  
-From “Hello World” to things like a Mortgage Calculator — all my experiments and exercises go here.
+From “Hello World” to comple projects — all my experiments and exercises go here.
 
 ## 📌 About
 This repository is my personal playground for learning Java.  
@@ -46,8 +36,8 @@ Expect some messy code, creative solutions, and occasional moments of “why won
 
 ## 🛠 Environment
 
-* **Java Version:** (e.g., Java 17)
-* **IDE:** (e.g., IntelliJ IDEA, Eclipse, VS Code)
+* **Java Version:** Java 24
+* **IDE:** IntelliJ
 
 ## ✨ Goals
 
