@@ -6,7 +6,7 @@ This is a simple **Java console application** that simulates a bank account syst
 - Withdraw money (with error handling).  
 - View account numbers and balances.  
 
-⚠️ **Disclaimer:**  
+**Disclaimer:**  
 This is **not real banking software**. It uses `double` for money, which introduces rounding issues in real-world finance. For production-grade banking code, you’d use `BigDecimal` or store amounts in cents as `long`.
 
 ---
@@ -20,4 +20,5 @@ This is **not real banking software**. It uses `double` for money, which introdu
 - 12001.0
 - Account #1234567890123 | Balance: 4999.232
 - Account #9876543210987 | Balance: 12001.0
+
 
