@@ -18,13 +18,13 @@ public class BankAccount {
     // For learning projects → totally fine.
     // In real banking code → use BigDecimal or store money in cents as a long.
     public void deposit(double money){
-        if(money <= 0) throw new IllegalArgumentException("Money cannot be 0 or Negative");
+        if(money <= 0) throw new IllegalArgumentException("Deposit must be positive");
         balance = balance + money;
     }
 
     public void withdraw(double money){
-        if(money <= 0) throw new IllegalArgumentException("Money cannot be 0 or Negative");
-        if(money > balance) throw new IllegalArgumentException("Money more than balance cannot be withdrawn");
+        if(money <= 0) throw new IllegalArgumentException("Withdrawal must be positive");
+        if(money > balance) throw new IllegalArgumentException("Insufficient funds");
         balance = balance - money;
     }
 
@@ -40,8 +40,9 @@ public class BankAccount {
     // Overrides
     @Override
     public String toString(){
-        return "Account #" + accountNumber + " | Balance: " + balance;
+        return String.format("Account #%d | Balance: %.2f", accountNumber, balance);
     }
 
 
 }
+
