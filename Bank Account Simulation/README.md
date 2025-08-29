@@ -12,11 +12,12 @@ This is **not real banking software**. It uses `double` for money, which introdu
 ---
 
 **Example Output**
-1234567890123
-10000.0
-4999.232
-9876543210987
-12000.0
-12001.0
-Account #1234567890123 | Balance: 4999.232
-Account #9876543210987 | Balance: 12001.0
+- 1234567890123
+- 10000.0
+- 4999.232
+- 9876543210987
+- 12000.0
+- 12001.0
+- Account #1234567890123 | Balance: 4999.232
+- Account #9876543210987 | Balance: 12001.0
+
