@@ -36,3 +36,4 @@ public class CheckPassFailSwitch {
         return result + "\nDONE";
     }
 }
+
